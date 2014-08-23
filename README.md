@@ -31,5 +31,7 @@ A R script called run_analysis.R that does as below.
 
 5.Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+The project work approach is as follows:
 
+1. Download the dataset if not present. downloaed File=./getdata-projectfiles-UCI HAR Dataset.zip
 

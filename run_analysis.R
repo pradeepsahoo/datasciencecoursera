@@ -1,4 +1,4 @@
-setwd("C:/pradeep_sahoo_jda/JH-Data-Science-Course/working_dir/datacleasing-project")
+setwd("./JH-Data-Science-Course/working_dir/datacleasing-project")
 getwd()
 
 # 0. Download File if not exists - UCI HAR Dataset

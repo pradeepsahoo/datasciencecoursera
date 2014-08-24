@@ -1,0 +1,8 @@
+The code book for assignment/project work related to  "Getting and Cleaning Data"
+
+For the  data set, the measurements we  calculate will need to be described in more detail than someone will sneak into 
+the spreadsheet/csv data set. This code book contains  information:
+
+Information about the variables (including units!) in the data set not contained in the tidy data
+Information about the summary choices was made
+Information about the experimental study design used

@@ -34,4 +34,10 @@ A R script called run_analysis.R that does as below.
 The project work approach is as follows:
 
 0. Download the dataset if not present. downloaed File=./getdata-projectfiles-UCI HAR Dataset.zip
+1. rbind two data files to fullfill requirement 0
+2. Take only std() and mean() features, subset the dataset, thus fulfilling requirement 2; the result is in mean_and_std
+3. Load the activity labels, and replace indices with names. The approach used was adopted from internet search link http://stackoverflow.com/questions/22475400/r-replace-values-in-data-frame-using-lookup-table That completes this req #3
+4. Combines the labels and the data set using cbind; doing that for both mean_and_std and X. That closes req #4.
+5. Using the X, calculating an aggregate using mean for averaging, averaging over activity and subject; then save the result to a file thus closing req #5
 
+Thanks

@@ -33,5 +33,5 @@ A R script called run_analysis.R that does as below.
 
 The project work approach is as follows:
 
-1. Download the dataset if not present. downloaed File=./getdata-projectfiles-UCI HAR Dataset.zip
+0. Download the dataset if not present. downloaed File=./getdata-projectfiles-UCI HAR Dataset.zip
 
